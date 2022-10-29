@@ -1,0 +1,29 @@
+.container-others-card{
+    width: 300px;
+    height: 300px;
+    margin:5px;
+
+}
+.others-card-photo img{
+    width: 300px;
+    min-width: 50px;
+    height: 200px;
+    border-radius: 15px;
+}
+.others-card-title p{
+    margin-top: 10px;
+    font-size: 14px;
+    color: gray;
+}
+.others-card-title h1{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.others-card-title h1 a{
+    text-decoration: none;
+}
+.others-card-description p{
+    margin-top: 5px;
+    font-size: 16px;
+    color: gray;
+}

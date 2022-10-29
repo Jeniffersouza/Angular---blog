@@ -1,0 +1,53 @@
+.container{
+  margin: auto;
+  padding: 50px;
+
+}
+.sub{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+
+}
+.cover{
+  margin-bottom: 15px;
+}
+.cover img{
+  width: 100%;
+  min-width: 400px;
+  height: 100%;
+  border-radius: 15px;
+}
+.title h1{
+  margin-top: 10px;
+  font-size: 30px;
+}
+.description p{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: gray;
+}
+
+
+.myButton {
+	background-color:#964796;
+	border-radius:28px;
+	border:1px solid #ab1971;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:18px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e60e81;
+}
+.myButton:hover {
+	background-color:#de1db7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
